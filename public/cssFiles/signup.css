@@ -1,0 +1,26 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    
+    background-image: url("../images/event_back.jpg");
+    background-repeat: no-repeat, repeat;
+    background-size: cover;
+    background-color: #cecece;
+}
+.wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height:85%;
+
+}
+.R_form{
+    border: 1px solid #000000;
+    border-radius: 10px;
+    background-color: rgba(0, 0, 0, 0.8);
+}
+.form-select{
+    width: 100% !important;
+}
